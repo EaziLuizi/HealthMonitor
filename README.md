@@ -10,4 +10,3 @@ A simple Health Monitoring CRUD Web App
  
 - Add validation to Create + Update on the Modal
 - Add a prompt before deleting a record
-- 
